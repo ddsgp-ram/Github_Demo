@@ -1,2 +1,3 @@
 # Github_Demo
-This is our first git Repository in Remote.
+Github demo file first github project.
+understand git pull &fetch.
