@@ -1,3 +1,3 @@
 # Github_Demo
 Github demo file first github project.
-Hello Github.
+understand git pull &fetch.
